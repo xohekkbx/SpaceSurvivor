@@ -1586,9 +1586,10 @@ MonoBehaviour:
   - {fileID: 2076149501}
   - {fileID: 704222946}
   - {fileID: 360563666}
-  monster: []
   capsule: []
   item: []
+  monsterPrefab:
+  - {fileID: 2069571551341801536, guid: dce7ad7ee14dded40a79fc944cdf26d6, type: 3}
 --- !u!4 &2066176378
 Transform:
   m_ObjectHideFlags: 0
